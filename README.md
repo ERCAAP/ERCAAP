@@ -12,6 +12,11 @@ I take products from idea to the App Store, fast.
 [![X](https://img.shields.io/badge/X-@lordoftheapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lordoftheapp)
 [![Instagram](https://img.shields.io/badge/Instagram-@omerercan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omerercan.dev)
 
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=ERCAAP&color=22c55e&style=flat-square&label=Profile+views)
+[![Followers](https://img.shields.io/github/followers/ERCAAP?style=flat-square&logo=github&color=22c55e&label=Followers)](https://github.com/ERCAAP?tab=followers)
+
 </div>
 
 ---
@@ -29,6 +34,8 @@ I build **AI‑native**: I pair with coding agents (**Claude Code**, **Codex**) 
 `Electron` · `Three.js` · `TypeScript` · `Node.js`
 
 ## 🧰 Tech I build with
+
+[![My skills](https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,threejs,unity,cs,swift,kotlin,firebase,cloudflare,py,tailwind,git,vercel&perline=8)](https://skillicons.dev)
 
 - **Mobile:** React Native · Expo · Swift · Kotlin
 - **Games:** Unity (C#)
@@ -53,6 +60,21 @@ I build **AI‑native**: I pair with coding agents (**Claude Code**, **Codex**) 
 
 > …and **100+ more** across mobile, games, AI and web — **[browse all repos »](https://github.com/ERCAAP?tab=repositories)**
 
+## 📊 GitHub stats
+
+<div align="center">
+
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERCAAP&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERCAAP&layout=compact&hide_border=true&theme=tokyonight&langs_count=10)
+
+![GitHub streak](https://streak-stats.demolab.com?user=ERCAAP&hide_border=true&theme=tokyonight)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ERCAAP&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ERCAAP&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
 ## 📫 Let's build something
 
 I'm **open to opportunities, freelance and collaborations**. The fastest way to reach me:
@@ -60,12 +82,3 @@ I'm **open to opportunities, freelance and collaborations**. The fastest way to 
 - 📧 **ercaanp@gmail.com**
 - 📱 **+90 553 051 86 47** ([WhatsApp](https://wa.me/905530518647))
 - 💼 [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · 🐦 [X / @lordoftheapp](https://x.com/lordoftheapp) · 📸 [Instagram / @omerercan.dev](https://instagram.com/omerercan.dev)
-
-<div align="center">
-
-<br>
-
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERCAAP&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERCAAP&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-</div>
