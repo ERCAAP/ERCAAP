@@ -6,7 +6,6 @@
 **Indie app developer & AI‑native builder — idea → App Store, fast.**
 
 [![Email](https://img.shields.io/badge/Email-ercaanp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercaanp@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+90_553_051_86_47-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905530518647)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Ercan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-ercan-565512219/)
 [![X](https://img.shields.io/badge/X-@lordoftheapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lordoftheapp)
 [![Instagram](https://img.shields.io/badge/Instagram-@omerercan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omerercan.dev)
@@ -89,7 +88,7 @@ I build **AI‑native** (pairing with **Claude Code** & **Codex**) and I run my 
 
 **Open to opportunities, freelance & collaborations.**
 
-📧 **ercaanp@gmail.com** &nbsp;·&nbsp; 📱 **+90 553 051 86 47** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · [X](https://x.com/lordoftheapp) · [Instagram](https://instagram.com/omerercan.dev)
+📧 **ercaanp@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · [X](https://x.com/lordoftheapp) · [Instagram](https://instagram.com/omerercan.dev)
 
 </div>
 
