@@ -1,13 +1,98 @@
-### Hi, I'm Ömer Ercan 👋
+<div align="center">
 
-**Founder & Engineer @ ERCAAP** — indie app developer & AI-native builder.
+# Ömer Ercan
 
-I ship a lot — 100+ mobile apps, games and web products, usually taken from idea to the App Store solo. I build AI-native (Claude Code, Codex) and run my own growth end-to-end (ASO + paid user acquisition across Apple Search Ads, Google, Meta and TikTok).
+### Founder & Engineer @ ERCAAP
+**Indie app developer & AI‑native builder — idea → App Store, fast.**
 
-**🚀 Featured:** [Termi Protocol](https://github.com/ERCAAP/termi-protocol) — live 3D command center for AI coding agents.
+[![Email](https://img.shields.io/badge/Email-ercaanp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercaanp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Ercan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-ercan-565512219/)
+[![X](https://img.shields.io/badge/X-@lordoftheapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lordoftheapp)
+[![Instagram](https://img.shields.io/badge/Instagram-@omerercan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omerercan.dev)
 
-**🧩 Selected work:** [Banana AI](https://github.com/ERCAAP/Banana-AI) · [VEO-3](https://github.com/ERCAAP/VEO-3APP) · [Digital Footprint](https://github.com/ERCAAP/dfp) · [Style AI](https://github.com/ERCAAP/style-ai) · [Time Travel](https://github.com/ERCAAP/time-travel) · [Empire of Cards](https://github.com/ERCAAP/empire-of-cards)
+![Profile views](https://komarev.com/ghpvc/?username=ERCAAP&color=22c55e&style=flat-square&label=Profile+views)
+[![Followers](https://img.shields.io/github/followers/ERCAAP?style=flat-square&logo=github&color=22c55e&label=Followers)](https://github.com/ERCAAP?tab=followers)
 
-**🛠️ Stack:** React Native, Expo, Swift, Unity/C#, TypeScript, Node.js, Firebase, Cloudflare, Vercel, OpenAI, Gemini.
+</div>
 
-**📫 Contact:** ercaanp@gmail.com · [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · [X](https://x.com/lordoftheapp) · [Instagram](https://instagram.com/omerercan.dev)
+---
+
+## 👋 About
+
+I'm a product‑minded developer who ships **a lot** — **100+ mobile apps, games and web products** built over the past couple of years, usually taken from idea to the App Store solo.
+
+I build **AI‑native** (pairing with **Claude Code** & **Codex**) and I run my own **growth end‑to‑end** — ASO and paid user acquisition across Apple Search Ads, Google, Meta and TikTok. **I don't just build apps; I ship them and get them users.**
+
+---
+
+## 🚀 Featured — Termi Protocol
+
+> **Live 3D command center for AI coding agents.** Watch Claude Code, Codex, Gemini CLI and more work inside a cozy Three.js workspace — terminal workflows meet gamified developer productivity.
+
+[🌐 termiprotocol.com](https://termiprotocol.com) · [⬇️ Download (macOS · Windows)](https://termiprotocol.com/download) · [📦 Source](https://github.com/ERCAAP/termi-protocol) · `Electron` `Three.js` `TypeScript`
+
+---
+
+## 🧠 Skills & Tools
+
+| Domain | Stack |
+|:--|:--|
+| **📱 Mobile & Frontend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Native iOS](https://img.shields.io/badge/Native_iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **🎮 Games** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) |
+| **☁️ Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white) |
+| **🤖 AI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) |
+| **📈 Growth & User Acquisition** | ![Apple Search Ads](https://img.shields.io/badge/Apple_Search_Ads-000000?style=flat-square&logo=apple&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white) ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white) ![ASO](https://img.shields.io/badge/ASO-22C55E?style=flat-square&logo=appstore&logoColor=white) |
+| **📊 Analytics & ASO Tools** | ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat-square&logo=amplitude&logoColor=white) ![AppTweak](https://img.shields.io/badge/AppTweak-0B5FFF?style=flat-square) ![Appfigures](https://img.shields.io/badge/Appfigures-1F6FEB?style=flat-square) ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
+| **💳 Monetization** | ![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white) ![Polar](https://img.shields.io/badge/Polar-0062FF?style=flat-square) ![Creem](https://img.shields.io/badge/Creem-6D28D9?style=flat-square) |
+
+---
+
+## 🧩 Selected work
+
+| Project | What it is | Tech |
+|:--|:--|:--|
+| [**Termi Protocol**](https://github.com/ERCAAP/termi-protocol) | Live 3D command center for AI coding agents | Electron · Three.js · TS |
+| [**Banana AI**](https://github.com/ERCAAP/Banana-AI) | AI image generation & editing app | React Native · TS |
+| [**VEO‑3 App**](https://github.com/ERCAAP/VEO-3APP) | AI text‑to‑video generator | React Native · TS |
+| [**Digital Footprint**](https://github.com/ERCAAP/dfp) | Scan & shrink your online privacy exposure | React Native · TS |
+| [**Style AI**](https://github.com/ERCAAP/style-ai) | AI personal stylist from your photos | React Native · TS |
+| [**Time Travel**](https://github.com/ERCAAP/time-travel) | Interactive branching video game, Detroit‑style UI | Expo · TS |
+| [**Empire of Cards**](https://github.com/ERCAAP/empire-of-cards) | Steam card game | Unity · C# |
+| [**Aquarium.io**](https://github.com/ERCAAP/aquarium-io) | Relaxing `.io` aquarium game | Unity · C# |
+| [**Posse**](https://github.com/ERCAAP/posse) | Cross‑platform social app | Flutter · Dart |
+
+> …and **100+ more** across mobile, games, AI and web — **[browse all repos »](https://github.com/ERCAAP?tab=repositories)**
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERCAAP&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true)&nbsp;
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERCAAP&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+![GitHub streak](https://streak-stats.demolab.com?user=ERCAAP&hide_border=true&theme=tokyonight)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ERCAAP&theme=tokyo-night&hide_border=true&area=true)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ERCAAP&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's build something
+
+**Open to opportunities, freelance & collaborations.**
+
+📧 **ercaanp@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · [X](https://x.com/lordoftheapp) · [Instagram](https://instagram.com/omerercan.dev)
+
+</div>
+
+<!-- ERCAAP profile README -->
+<!-- refresh --> 
+
+
