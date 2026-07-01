@@ -37,7 +37,19 @@ I build **AI‑native**: I pair with coding agents (**Claude Code**, **Codex**) 
 
 ## 🧩 Selected work
 
-Curated projects are being published to this profile — check the pinned repositories, or **[browse all repos »](https://github.com/ERCAAP?tab=repositories)**
+| Project | What it is | Tech |
+|---|---|---|
+| [**Termi Protocol**](https://github.com/ERCAAP/termi-protocol) | Live 3D command center for AI coding agents | Electron · Three.js · TS |
+| [**Banana AI**](https://github.com/ERCAAP/Banana-AI) | AI image generation & editing app | React Native · TS |
+| [**VEO‑3 App**](https://github.com/ERCAAP/VEO-3APP) | AI text‑to‑video generator | React Native · TS |
+| [**Digital Footprint**](https://github.com/ERCAAP/dfp) | Scan & shrink your online privacy exposure | React Native · TS |
+| [**Style AI**](https://github.com/ERCAAP/style-ai) | AI personal stylist from your photos | React Native · TS |
+| [**Time Travel**](https://github.com/ERCAAP/time-travel) | Interactive branching video game, Detroit‑style UI | Expo · TS |
+| [**Copernicus Vision**](https://github.com/ERCAAP/copernicus-vision) | Computer‑vision app | TypeScript |
+| [**Aquarium.io**](https://github.com/ERCAAP/aquarium-io) | Relaxing `.io` aquarium game | Unity · C# |
+| [**Posse**](https://github.com/ERCAAP/posse) | Cross‑platform social app | Flutter · Dart |
+
+> …and **100+ more** across mobile, games, AI and web — **[browse all repos »](https://github.com/ERCAAP?tab=repositories)**
 
 ## 📫 Let's build something
 
