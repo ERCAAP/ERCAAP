@@ -25,6 +25,8 @@ Hi, I'm **Ömer** 👋 — a product‑minded developer who ships **a lot**. Ove
 
 I build **AI‑native**: I pair with coding agents (**Claude Code**, **Codex**) to move fast without cutting corners, and I'm comfortable across the whole stack — mobile, backend, infrastructure and design.
 
+I also run my own **growth end‑to‑end** — ASO and paid user acquisition across **Apple Search Ads, Google, Meta and TikTok**, with analytics to back it up. I don't just build apps; I ship them and get them users.
+
 ## 🚀 Featured — Termi Protocol
 
 > **Live 3D command center for AI coding agents.** Watch Claude Code, Codex, Gemini CLI and more work inside a cozy Three.js workspace — terminal workflows meet gamified developer productivity.
@@ -33,16 +35,53 @@ I build **AI‑native**: I pair with coding agents (**Claude Code**, **Codex**) 
 
 `Electron` · `Three.js` · `TypeScript` · `Node.js`
 
-## 🧰 Tech I build with
+## 🧠 Skills & Tools
 
-[![My skills](https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,threejs,unity,cs,swift,kotlin,firebase,cloudflare,py,tailwind,git,vercel&perline=8)](https://skillicons.dev)
+**📱 Mobile & Frontend**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Native iOS](https://img.shields.io/badge/Native_iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-- **Mobile:** React Native · Expo · Swift · Kotlin
-- **Games:** Unity (C#)
-- **Web & Backend:** TypeScript · Node.js · React · Three.js
-- **Cloud & Infra:** Firebase · Cloudflare · Hetzner
-- **Payments & Growth:** RevenueCat · Polar · Creem · App Store / ASO
-- **AI:** OpenAI · Gemini · agentic dev workflows (Claude Code, Codex)
+**🎮 Games**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+**☁️ Backend & Cloud**  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+**🤖 AI**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**📈 Growth & User Acquisition**  
+![Apple Search Ads](https://img.shields.io/badge/Apple_Search_Ads-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![ASO](https://img.shields.io/badge/ASO_·_App_Store_Optimization-22C55E?style=for-the-badge&logo=appstore&logoColor=white)
+
+**📊 Analytics & ASO Tools**  
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
+![AppTweak](https://img.shields.io/badge/AppTweak-0B5FFF?style=for-the-badge)
+![Appfigures](https://img.shields.io/badge/Appfigures-1F6FEB?style=for-the-badge)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+**💳 Monetization**  
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=for-the-badge&logo=revenuecat&logoColor=white)
+![Polar](https://img.shields.io/badge/Polar-0062FF?style=for-the-badge)
+![Creem](https://img.shields.io/badge/Creem-6D28D9?style=for-the-badge)
 
 ## 🧩 Selected work
 
