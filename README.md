@@ -2,7 +2,9 @@
 
 # Ömer Ercan
 
-### Indie app developer & AI‑native builder — I take products from idea to App Store, fast.
+### Founder & Engineer @ ERCAAP — indie app developer & AI‑native builder.
+
+I take products from idea to the App Store, fast.
 
 [![Email](https://img.shields.io/badge/Email-ercaanp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercaanp@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+90_553_051_86_47-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905530518647)
