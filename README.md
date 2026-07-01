@@ -92,3 +92,5 @@ I build **AI‑native** (pairing with **Claude Code** & **Codex**) and I run my 
 📧 **ercaanp@gmail.com** &nbsp;·&nbsp; 📱 **+90 553 051 86 47** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/omer-ercan-565512219/) · [X](https://x.com/lordoftheapp) · [Instagram](https://instagram.com/omerercan.dev)
 
 </div>
+
+<!-- ERCAAP profile README -->
